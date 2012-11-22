@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-
+#from local stage
 
 gem 'rails', '3.2.8'
 
